@@ -1,0 +1,1 @@
+python3 evaluate.py --landlord /root/douzero1/DouZero/douzero_checkpoints/res/landlord_weights_106867200.ckpt --landlord_up  /root/douzero1/DouZero/baselines/douzero_WP/landlord_up.ckpt --landlord_down /root/douzero1/DouZero/baselines/douzero_WP/landlord_down.ckpt
