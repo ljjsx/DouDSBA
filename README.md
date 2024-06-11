@@ -145,13 +145,6 @@ sh get_most_recent.sh douzero_checkpoints/douzero/
 ```
 The most recent model will be in `most_recent_model`.
 
-## Issues in Windows
-You may encounter `operation not supported` error if you use a Windows system to train with GPU as actors. This is because doing multiprocessing on CUDA tensors is not supported in Windows. However, our code extensively operates on the CUDA tensors since the code is optimized for GPUs. Please contact us if you find any solutions!
-
-## Acknowlegements
-*   The demo is largely based on [RLCard-Showdown](https://github.com/datamllab/rlcard-showdown)
-*   Code implementation is inspired by [TorchBeast](https://github.com/facebookresearch/torchbeast)
-
 
 
 
