@@ -14,34 +14,6 @@ DouDSBA is a reinforcement learning framework for [DouDizhu](https://en.wikipedi
 *   Zhihu: [https://zhuanlan.zhihu.com/p/526723604](https://zhuanlan.zhihu.com/p/526723604)
 *   Miscellaneous Resources: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
-**News:**
-*   Thanks for the contribution of [@Vincentzyx](https://github.com/Vincentzyx) for enabling CPU training. Now Windows users can train with CPUs.
-
-<img width="500" src="https://douzero.org/public/demo.gif" alt="Demo" />
-
-## Cite this Work
-If you find this project helpful in your research, please cite our paper:
-
-Zha, Daochen et al. “DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning.” ICML (2021).
-
-```bibtex
-@InProceedings{pmlr-v139-zha21a,
-  title = 	 {DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning},
-  author =       {Zha, Daochen and Xie, Jingru and Ma, Wenye and Zhang, Sheng and Lian, Xiangru and Hu, Xia and Liu, Ji},
-  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
-  pages = 	 {12333--12344},
-  year = 	 {2021},
-  editor = 	 {Meila, Marina and Zhang, Tong},
-  volume = 	 {139},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {18--24 Jul},
-  publisher =    {PMLR},
-  pdf = 	 {http://proceedings.mlr.press/v139/zha21a/zha21a.pdf},
-  url = 	 {http://proceedings.mlr.press/v139/zha21a.html},
-  abstract = 	 {Games are abstractions of the real world, where artificial agents learn to compete and cooperate with other agents. While significant achievements have been made in various perfect- and imperfect-information games, DouDizhu (a.k.a. Fighting the Landlord), a three-player card game, is still unsolved. DouDizhu is a very challenging domain with competition, collaboration, imperfect information, large state space, and particularly a massive set of possible actions where the legal actions vary significantly from turn to turn. Unfortunately, modern reinforcement learning algorithms mainly focus on simple and small action spaces, and not surprisingly, are shown not to make satisfactory progress in DouDizhu. In this work, we propose a conceptually simple yet effective DouDizhu AI system, namely DouZero, which enhances traditional Monte-Carlo methods with deep neural networks, action encoding, and parallel actors. Starting from scratch in a single server with four GPUs, DouZero outperformed all the existing DouDizhu AI programs in days of training and was ranked the first in the Botzone leaderboard among 344 AI agents. Through building DouZero, we show that classic Monte-Carlo methods can be made to deliver strong results in a hard domain with a complex action space. The code and an online demo are released at https://github.com/kwai/DouZero with the hope that this insight could motivate future work.}
-}
-```
-
 ## What Makes DouDizhu Challenging?
 In addition to the challenge of imperfect information, DouDizhu has huge state and action spaces. In particular, the action space of DouDizhu is 10^4 (see [this table](https://github.com/datamllab/rlcard#available-environments)). Unfortunately, most reinforcement learning algorithms can only handle very small action spaces. Moreover, the players in DouDizhu need to both compete and cooperate with others in a partially-observable environment with limited communication, i.e., two Peasants players will play as a team to fight against the Landlord player. Modeling both competing and cooperation is an open research challenge.
 
