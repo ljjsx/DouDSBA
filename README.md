@@ -1,4 +1,4 @@
-# [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning
+# DouDSBA
 <img width="500" src="https://raw.githubusercontent.com/kwai/DouZero/main/imgs/douzero_logo.jpg" alt="Logo" />
 
 [![Building](https://github.com/kwai/DouZero/actions/workflows/python-package.yml/badge.svg)](https://github.com/kwai/DouZero/actions/workflows/python-package.yml)
