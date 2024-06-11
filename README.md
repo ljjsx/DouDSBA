@@ -145,6 +145,8 @@ sh get_most_recent.sh douzero_checkpoints/douzero/
 ```
 The most recent model will be in `most_recent_model`.
 
+## Final Model
+最终模型放在文件夹final_model中，用一块Tesla-V100-SXM2-32GB训练了十天。
 
 
 
