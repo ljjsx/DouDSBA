@@ -14,16 +14,6 @@ DouDSBA is a reinforcement learning framework for [DouDizhu](https://en.wikipedi
 *   Zhihu: [https://zhuanlan.zhihu.com/p/526723604](https://zhuanlan.zhihu.com/p/526723604)
 *   Miscellaneous Resources: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
 
-**Community:**
-*  **Slack**: Discuss in [DouZero](https://join.slack.com/t/douzero/shared_invite/zt-rg3rygcw-ouxxDk5o4O0bPZ23vpdwxA) channel.
-*  **QQ Group**: Join our QQ group to discuss. Password: douzeroqqgroup
-
-	*  Group 1: 819204202
-	*  Group 2: 954183174
-	*  Group 3: 834954839
-	*  Group 4: 211434658
-	*  Group 5: 189203636
-
 **News:**
 *   Thanks for the contribution of [@Vincentzyx](https://github.com/Vincentzyx) for enabling CPU training. Now Windows users can train with CPUs.
 
