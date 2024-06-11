@@ -1,0 +1,96 @@
+WP results:
+landlord : Farmers - 0.991 : 0.009
+ADP results:
+landlord : Farmers - 2.969 : -2.969
+WP results:
+landlord : Farmers - 1.0 : 0.0
+ADP results:
+landlord : Farmers - 2.465 : -2.465
+WP results:
+landlord : Farmers - 0.7355 : 0.2645
+ADP results:
+landlord : Farmers - 1.349 : -1.349
+WP results:
+landlord : Farmers - 0.7205 : 0.2795
+ADP results:
+landlord : Farmers - 1.21 : -1.21
+WP results:
+landlord : Farmers - 0.671 : 0.329
+ADP results:
+landlord : Farmers - 0.921 : -0.921
+WP results:
+landlord : Farmers - 0.632 : 0.368
+ADP results:
+landlord : Farmers - 0.728 : -0.728
+WP results:
+landlord : Farmers - 0.602 : 0.398
+ADP results:
+landlord : Farmers - 0.568 : -0.568
+WP results:
+landlord : Farmers - 0.595 : 0.405
+ADP results:
+landlord : Farmers - 0.558 : -0.558
+WP results:
+landlord : Farmers - 0.583 : 0.417
+ADP results:
+landlord : Farmers - 0.445 : -0.445
+WP results:
+landlord : Farmers - 0.5755 : 0.4245
+ADP results:
+landlord : Farmers - 0.399 : -0.399
+WP results:
+landlord : Farmers - 0.5775 : 0.4225
+ADP results:
+landlord : Farmers - 0.39 : -0.39
+WP results:
+landlord : Farmers - 0.582 : 0.418
+ADP results:
+landlord : Farmers - 0.427 : -0.427
+WP results:
+landlord : Farmers - 0.577 : 0.423
+ADP results:
+landlord : Farmers - 0.335 : -0.335
+WP results:
+landlord : Farmers - 0.5825 : 0.4175
+ADP results:
+landlord : Farmers - 0.412 : -0.412
+WP results:
+landlord : Farmers - 0.574 : 0.426
+ADP results:
+landlord : Farmers - 0.327 : -0.327
+WP results:
+landlord : Farmers - 0.5775 : 0.4225
+ADP results:
+landlord : Farmers - 0.346 : -0.346
+WP results:
+landlord : Farmers - 0.5855 : 0.4145
+ADP results:
+landlord : Farmers - 0.375 : -0.375
+WP results:
+landlord : Farmers - 0.575 : 0.425
+ADP results:
+landlord : Farmers - 0.375 : -0.375
+WP results:
+landlord : Farmers - 0.57 : 0.43
+ADP results:
+landlord : Farmers - 0.311 : -0.311
+WP results:
+landlord : Farmers - 0.575 : 0.425
+ADP results:
+landlord : Farmers - 0.359 : -0.359
+WP results:
+landlord : Farmers - 0.5635 : 0.4365
+ADP results:
+landlord : Farmers - 0.323 : -0.323
+WP results:
+landlord : Farmers - 0.5635 : 0.4365
+ADP results:
+landlord : Farmers - 0.296 : -0.296
+WP results:
+landlord : Farmers - 0.5635 : 0.4365
+ADP results:
+landlord : Farmers - 0.289 : -0.289
+WP results:
+landlord : Farmers - 0.556 : 0.444
+ADP results:
+landlord : Farmers - 0.239 : -0.239

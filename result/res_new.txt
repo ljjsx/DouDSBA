@@ -1,0 +1,1205 @@
+1/201
+STDOUT: WP results:
+landlord : Farmers - 0.492 : 0.508
+ADP results:
+landlord : Farmers - -0.052 : 0.052
+
+2/201
+STDOUT: WP results:
+landlord : Farmers - 0.462 : 0.538
+ADP results:
+landlord : Farmers - -0.244 : 0.244
+
+3/201
+STDOUT: WP results:
+landlord : Farmers - 0.458 : 0.542
+ADP results:
+landlord : Farmers - -0.24 : 0.24
+
+4/201
+STDOUT: WP results:
+landlord : Farmers - 0.454 : 0.546
+ADP results:
+landlord : Farmers - -0.416 : 0.416
+
+5/201
+STDOUT: WP results:
+landlord : Farmers - 0.448 : 0.552
+ADP results:
+landlord : Farmers - -0.32 : 0.32
+
+6/201
+STDOUT: WP results:
+landlord : Farmers - 0.476 : 0.524
+ADP results:
+landlord : Farmers - -0.112 : 0.112
+
+7/201
+STDOUT: WP results:
+landlord : Farmers - 0.432 : 0.568
+ADP results:
+landlord : Farmers - -0.384 : 0.384
+
+8/201
+STDOUT: WP results:
+landlord : Farmers - 0.484 : 0.516
+ADP results:
+landlord : Farmers - -0.064 : 0.064
+
+9/201
+STDOUT: WP results:
+landlord : Farmers - 0.422 : 0.578
+ADP results:
+landlord : Farmers - -0.552 : 0.552
+
+10/201
+STDOUT: WP results:
+landlord : Farmers - 0.482 : 0.518
+ADP results:
+landlord : Farmers - -0.172 : 0.172
+
+11/201
+STDOUT: WP results:
+landlord : Farmers - 0.478 : 0.522
+ADP results:
+landlord : Farmers - -0.26 : 0.26
+
+12/201
+STDOUT: WP results:
+landlord : Farmers - 0.486 : 0.514
+ADP results:
+landlord : Farmers - -0.208 : 0.208
+
+13/201
+STDOUT: WP results:
+landlord : Farmers - 0.43 : 0.57
+ADP results:
+landlord : Farmers - -0.492 : 0.492
+
+14/201
+STDOUT: WP results:
+landlord : Farmers - 0.476 : 0.524
+ADP results:
+landlord : Farmers - -0.28 : 0.28
+
+15/201
+STDOUT: WP results:
+landlord : Farmers - 0.472 : 0.528
+ADP results:
+landlord : Farmers - -0.32 : 0.32
+
+16/201
+STDOUT: WP results:
+landlord : Farmers - 0.47 : 0.53
+ADP results:
+landlord : Farmers - -0.164 : 0.164
+
+17/201
+STDOUT: WP results:
+landlord : Farmers - 0.438 : 0.562
+ADP results:
+landlord : Farmers - -0.508 : 0.508
+
+18/201
+STDOUT: WP results:
+landlord : Farmers - 0.462 : 0.538
+ADP results:
+landlord : Farmers - -0.32 : 0.32
+
+19/201
+STDOUT: WP results:
+landlord : Farmers - 0.44 : 0.56
+ADP results:
+landlord : Farmers - -0.516 : 0.516
+
+20/201
+STDOUT: WP results:
+landlord : Farmers - 0.404 : 0.596
+ADP results:
+landlord : Farmers - -0.708 : 0.708
+
+21/201
+STDOUT: WP results:
+landlord : Farmers - 0.424 : 0.576
+ADP results:
+landlord : Farmers - -0.544 : 0.544
+
+22/201
+STDOUT: WP results:
+landlord : Farmers - 0.412 : 0.588
+ADP results:
+landlord : Farmers - -0.52 : 0.52
+
+23/201
+STDOUT: WP results:
+landlord : Farmers - 0.412 : 0.588
+ADP results:
+landlord : Farmers - -0.652 : 0.652
+
+24/201
+STDOUT: WP results:
+landlord : Farmers - 0.402 : 0.598
+ADP results:
+landlord : Farmers - -0.552 : 0.552
+
+25/201
+STDOUT: WP results:
+landlord : Farmers - 0.426 : 0.574
+ADP results:
+landlord : Farmers - -0.56 : 0.56
+
+26/201
+STDOUT: WP results:
+landlord : Farmers - 0.434 : 0.566
+ADP results:
+landlord : Farmers - -0.544 : 0.544
+
+27/201
+STDOUT: WP results:
+landlord : Farmers - 0.39 : 0.61
+ADP results:
+landlord : Farmers - -0.716 : 0.716
+
+28/201
+STDOUT: WP results:
+landlord : Farmers - 0.408 : 0.592
+ADP results:
+landlord : Farmers - -0.756 : 0.756
+
+29/201
+STDOUT: WP results:
+landlord : Farmers - 0.42 : 0.58
+ADP results:
+landlord : Farmers - -0.596 : 0.596
+
+30/201
+STDOUT: WP results:
+landlord : Farmers - 0.432 : 0.568
+ADP results:
+landlord : Farmers - -0.536 : 0.536
+
+31/201
+STDOUT: WP results:
+landlord : Farmers - 0.384 : 0.616
+ADP results:
+landlord : Farmers - -0.74 : 0.74
+
+32/201
+STDOUT: WP results:
+landlord : Farmers - 0.402 : 0.598
+ADP results:
+landlord : Farmers - -0.656 : 0.656
+
+33/201
+STDOUT: WP results:
+landlord : Farmers - 0.384 : 0.616
+ADP results:
+landlord : Farmers - -0.776 : 0.776
+
+34/201
+STDOUT: WP results:
+landlord : Farmers - 0.384 : 0.616
+ADP results:
+landlord : Farmers - -0.824 : 0.824
+
+35/201
+STDOUT: WP results:
+landlord : Farmers - 0.416 : 0.584
+ADP results:
+landlord : Farmers - -0.64 : 0.64
+
+36/201
+STDOUT: WP results:
+landlord : Farmers - 0.41 : 0.59
+ADP results:
+landlord : Farmers - -0.66 : 0.66
+
+37/201
+STDOUT: WP results:
+landlord : Farmers - 0.396 : 0.604
+ADP results:
+landlord : Farmers - -0.704 : 0.704
+
+38/201
+STDOUT: WP results:
+landlord : Farmers - 0.424 : 0.576
+ADP results:
+landlord : Farmers - -0.516 : 0.516
+
+39/201
+STDOUT: WP results:
+landlord : Farmers - 0.412 : 0.588
+ADP results:
+landlord : Farmers - -0.68 : 0.68
+
+40/201
+STDOUT: WP results:
+landlord : Farmers - 0.392 : 0.608
+ADP results:
+landlord : Farmers - -0.596 : 0.596
+
+41/201
+STDOUT: WP results:
+landlord : Farmers - 0.432 : 0.568
+ADP results:
+landlord : Farmers - -0.364 : 0.364
+
+42/201
+STDOUT: WP results:
+landlord : Farmers - 0.4 : 0.6
+ADP results:
+landlord : Farmers - -0.704 : 0.704
+
+43/201
+STDOUT: WP results:
+landlord : Farmers - 0.404 : 0.596
+ADP results:
+landlord : Farmers - -0.532 : 0.532
+
+44/201
+STDOUT: WP results:
+landlord : Farmers - 0.41 : 0.59
+ADP results:
+landlord : Farmers - -0.5 : 0.5
+
+45/201
+STDOUT: WP results:
+landlord : Farmers - 0.416 : 0.584
+ADP results:
+landlord : Farmers - -0.6 : 0.6
+
+46/201
+STDOUT: WP results:
+landlord : Farmers - 0.414 : 0.586
+ADP results:
+landlord : Farmers - -0.48 : 0.48
+
+47/201
+STDOUT: WP results:
+landlord : Farmers - 0.376 : 0.624
+ADP results:
+landlord : Farmers - -0.844 : 0.844
+
+48/201
+STDOUT: WP results:
+landlord : Farmers - 0.372 : 0.628
+ADP results:
+landlord : Farmers - -0.912 : 0.912
+
+49/201
+STDOUT: WP results:
+landlord : Farmers - 0.4 : 0.6
+ADP results:
+landlord : Farmers - -0.72 : 0.72
+
+50/201
+STDOUT: WP results:
+landlord : Farmers - 0.37 : 0.63
+ADP results:
+landlord : Farmers - -0.936 : 0.936
+
+51/201
+STDOUT: WP results:
+landlord : Farmers - 0.404 : 0.596
+ADP results:
+landlord : Farmers - -0.652 : 0.652
+
+52/201
+STDOUT: WP results:
+landlord : Farmers - 0.378 : 0.622
+ADP results:
+landlord : Farmers - -0.84 : 0.84
+
+53/201
+STDOUT: WP results:
+landlord : Farmers - 0.408 : 0.592
+ADP results:
+landlord : Farmers - -0.696 : 0.696
+
+54/201
+STDOUT: WP results:
+landlord : Farmers - 0.344 : 0.656
+ADP results:
+landlord : Farmers - -1.2 : 1.2
+
+55/201
+STDOUT: WP results:
+landlord : Farmers - 0.4 : 0.6
+ADP results:
+landlord : Farmers - -0.66 : 0.66
+
+56/201
+STDOUT: WP results:
+landlord : Farmers - 0.362 : 0.638
+ADP results:
+landlord : Farmers - -0.932 : 0.932
+
+57/201
+STDOUT: WP results:
+landlord : Farmers - 0.364 : 0.636
+ADP results:
+landlord : Farmers - -0.948 : 0.948
+
+58/201
+STDOUT: WP results:
+landlord : Farmers - 0.358 : 0.642
+ADP results:
+landlord : Farmers - -0.984 : 0.984
+
+59/201
+STDOUT: WP results:
+landlord : Farmers - 0.396 : 0.604
+ADP results:
+landlord : Farmers - -0.712 : 0.712
+
+60/201
+STDOUT: WP results:
+landlord : Farmers - 0.388 : 0.612
+ADP results:
+landlord : Farmers - -0.788 : 0.788
+
+61/201
+STDOUT: WP results:
+landlord : Farmers - 0.396 : 0.604
+ADP results:
+landlord : Farmers - -0.596 : 0.596
+
+62/201
+STDOUT: WP results:
+landlord : Farmers - 0.396 : 0.604
+ADP results:
+landlord : Farmers - -0.72 : 0.72
+
+63/201
+STDOUT: WP results:
+landlord : Farmers - 0.384 : 0.616
+ADP results:
+landlord : Farmers - -0.852 : 0.852
+
+64/201
+STDOUT: WP results:
+landlord : Farmers - 0.366 : 0.634
+ADP results:
+landlord : Farmers - -0.972 : 0.972
+
+65/201
+STDOUT: WP results:
+landlord : Farmers - 0.382 : 0.618
+ADP results:
+landlord : Farmers - -0.78 : 0.78
+
+66/201
+STDOUT: WP results:
+landlord : Farmers - 0.396 : 0.604
+ADP results:
+landlord : Farmers - -0.724 : 0.724
+
+67/201
+STDOUT: WP results:
+landlord : Farmers - 0.366 : 0.634
+ADP results:
+landlord : Farmers - -0.988 : 0.988
+
+68/201
+STDOUT: WP results:
+landlord : Farmers - 0.372 : 0.628
+ADP results:
+landlord : Farmers - -0.908 : 0.908
+
+69/201
+STDOUT: WP results:
+landlord : Farmers - 0.364 : 0.636
+ADP results:
+landlord : Farmers - -0.936 : 0.936
+
+70/201
+STDOUT: WP results:
+landlord : Farmers - 0.354 : 0.646
+ADP results:
+landlord : Farmers - -1.06 : 1.06
+
+71/201
+STDOUT: WP results:
+landlord : Farmers - 0.374 : 0.626
+ADP results:
+landlord : Farmers - -0.988 : 0.988
+
+72/201
+STDOUT: WP results:
+landlord : Farmers - 0.364 : 0.636
+ADP results:
+landlord : Farmers - -0.92 : 0.92
+
+73/201
+STDOUT: WP results:
+landlord : Farmers - 0.368 : 0.632
+ADP results:
+landlord : Farmers - -1.064 : 1.064
+
+74/201
+STDOUT: WP results:
+landlord : Farmers - 0.342 : 0.658
+ADP results:
+landlord : Farmers - -1.024 : 1.024
+
+75/201
+STDOUT: WP results:
+landlord : Farmers - 0.35 : 0.65
+ADP results:
+landlord : Farmers - -1.016 : 1.016
+
+76/201
+STDOUT: WP results:
+landlord : Farmers - 0.336 : 0.664
+ADP results:
+landlord : Farmers - -1.076 : 1.076
+
+77/201
+STDOUT: WP results:
+landlord : Farmers - 0.344 : 0.656
+ADP results:
+landlord : Farmers - -1.12 : 1.12
+
+78/201
+STDOUT: WP results:
+landlord : Farmers - 0.328 : 0.672
+ADP results:
+landlord : Farmers - -1.2 : 1.2
+
+79/201
+STDOUT: WP results:
+landlord : Farmers - 0.342 : 0.658
+ADP results:
+landlord : Farmers - -1.028 : 1.028
+
+80/201
+STDOUT: WP results:
+landlord : Farmers - 0.364 : 0.636
+ADP results:
+landlord : Farmers - -1.088 : 1.088
+
+81/201
+STDOUT: WP results:
+landlord : Farmers - 0.34 : 0.66
+ADP results:
+landlord : Farmers - -1.084 : 1.084
+
+82/201
+STDOUT: WP results:
+landlord : Farmers - 0.344 : 0.656
+ADP results:
+landlord : Farmers - -1.108 : 1.108
+
+83/201
+STDOUT: WP results:
+landlord : Farmers - 0.328 : 0.672
+ADP results:
+landlord : Farmers - -1.212 : 1.212
+
+84/201
+STDOUT: WP results:
+landlord : Farmers - 0.346 : 0.654
+ADP results:
+landlord : Farmers - -1.092 : 1.092
+
+85/201
+STDOUT: WP results:
+landlord : Farmers - 0.38 : 0.62
+ADP results:
+landlord : Farmers - -0.808 : 0.808
+
+86/201
+STDOUT: WP results:
+landlord : Farmers - 0.34 : 0.66
+ADP results:
+landlord : Farmers - -1.02 : 1.02
+
+87/201
+STDOUT: WP results:
+landlord : Farmers - 0.326 : 0.674
+ADP results:
+landlord : Farmers - -1.16 : 1.16
+
+88/201
+STDOUT: WP results:
+landlord : Farmers - 0.302 : 0.698
+ADP results:
+landlord : Farmers - -1.284 : 1.284
+
+89/201
+STDOUT: WP results:
+landlord : Farmers - 0.36 : 0.64
+ADP results:
+landlord : Farmers - -0.852 : 0.852
+
+90/201
+STDOUT: WP results:
+landlord : Farmers - 0.322 : 0.678
+ADP results:
+landlord : Farmers - -1.104 : 1.104
+
+91/201
+STDOUT: WP results:
+landlord : Farmers - 0.338 : 0.662
+ADP results:
+landlord : Farmers - -1.112 : 1.112
+
+92/201
+STDOUT: WP results:
+landlord : Farmers - 0.338 : 0.662
+ADP results:
+landlord : Farmers - -1.084 : 1.084
+
+93/201
+STDOUT: WP results:
+landlord : Farmers - 0.318 : 0.682
+ADP results:
+landlord : Farmers - -1.344 : 1.344
+
+94/201
+STDOUT: WP results:
+landlord : Farmers - 0.366 : 0.634
+ADP results:
+landlord : Farmers - -0.772 : 0.772
+
+95/201
+STDOUT: WP results:
+landlord : Farmers - 0.31 : 0.69
+ADP results:
+landlord : Farmers - -1.268 : 1.268
+
+96/201
+STDOUT: WP results:
+landlord : Farmers - 0.332 : 0.668
+ADP results:
+landlord : Farmers - -1.124 : 1.124
+
+97/201
+STDOUT: WP results:
+landlord : Farmers - 0.336 : 0.664
+ADP results:
+landlord : Farmers - -1.04 : 1.04
+
+98/201
+STDOUT: WP results:
+landlord : Farmers - 0.322 : 0.678
+ADP results:
+landlord : Farmers - -1.008 : 1.008
+
+99/201
+STDOUT: WP results:
+landlord : Farmers - 0.318 : 0.682
+ADP results:
+landlord : Farmers - -1.156 : 1.156
+
+100/201
+STDOUT: WP results:
+landlord : Farmers - 0.298 : 0.702
+ADP results:
+landlord : Farmers - -1.4 : 1.4
+
+101/201
+STDOUT: WP results:
+landlord : Farmers - 0.324 : 0.676
+ADP results:
+landlord : Farmers - -1.14 : 1.14
+
+102/201
+STDOUT: WP results:
+landlord : Farmers - 0.304 : 0.696
+ADP results:
+landlord : Farmers - -1.236 : 1.236
+
+103/201
+STDOUT: WP results:
+landlord : Farmers - 0.314 : 0.686
+ADP results:
+landlord : Farmers - -1.184 : 1.184
+
+104/201
+STDOUT: WP results:
+landlord : Farmers - 0.324 : 0.676
+ADP results:
+landlord : Farmers - -1.144 : 1.144
+
+105/201
+STDOUT: WP results:
+landlord : Farmers - 0.282 : 0.718
+ADP results:
+landlord : Farmers - -1.34 : 1.34
+
+106/201
+STDOUT: WP results:
+landlord : Farmers - 0.324 : 0.676
+ADP results:
+landlord : Farmers - -1.06 : 1.06
+
+107/201
+STDOUT: WP results:
+landlord : Farmers - 0.306 : 0.694
+ADP results:
+landlord : Farmers - -1.256 : 1.256
+
+108/201
+STDOUT: WP results:
+landlord : Farmers - 0.322 : 0.678
+ADP results:
+landlord : Farmers - -1.2 : 1.2
+
+109/201
+STDOUT: WP results:
+landlord : Farmers - 0.296 : 0.704
+ADP results:
+landlord : Farmers - -1.32 : 1.32
+
+110/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.292 : 1.292
+
+111/201
+STDOUT: WP results:
+landlord : Farmers - 0.278 : 0.722
+ADP results:
+landlord : Farmers - -1.452 : 1.452
+
+112/201
+STDOUT: WP results:
+landlord : Farmers - 0.302 : 0.698
+ADP results:
+landlord : Farmers - -1.332 : 1.332
+
+113/201
+STDOUT: WP results:
+landlord : Farmers - 0.31 : 0.69
+ADP results:
+landlord : Farmers - -1.28 : 1.28
+
+114/201
+STDOUT: WP results:
+landlord : Farmers - 0.304 : 0.696
+ADP results:
+landlord : Farmers - -1.264 : 1.264
+
+115/201
+STDOUT: WP results:
+landlord : Farmers - 0.332 : 0.668
+ADP results:
+landlord : Farmers - -1.1 : 1.1
+
+116/201
+STDOUT: WP results:
+landlord : Farmers - 0.316 : 0.684
+ADP results:
+landlord : Farmers - -1.184 : 1.184
+
+117/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.292 : 1.292
+
+118/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.236 : 1.236
+
+119/201
+STDOUT: WP results:
+landlord : Farmers - 0.35 : 0.65
+ADP results:
+landlord : Farmers - -1.14 : 1.14
+
+120/201
+STDOUT: WP results:
+landlord : Farmers - 0.31 : 0.69
+ADP results:
+landlord : Farmers - -1.32 : 1.32
+
+121/201
+STDOUT: WP results:
+landlord : Farmers - 0.344 : 0.656
+ADP results:
+landlord : Farmers - -1.076 : 1.076
+
+122/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.4 : 1.4
+
+123/201
+STDOUT: WP results:
+landlord : Farmers - 0.322 : 0.678
+ADP results:
+landlord : Farmers - -1.22 : 1.22
+
+124/201
+STDOUT: WP results:
+landlord : Farmers - 0.326 : 0.674
+ADP results:
+landlord : Farmers - -1.156 : 1.156
+
+125/201
+STDOUT: WP results:
+landlord : Farmers - 0.302 : 0.698
+ADP results:
+landlord : Farmers - -1.224 : 1.224
+
+126/201
+STDOUT: WP results:
+landlord : Farmers - 0.312 : 0.688
+ADP results:
+landlord : Farmers - -1.128 : 1.128
+
+127/201
+STDOUT: WP results:
+landlord : Farmers - 0.308 : 0.692
+ADP results:
+landlord : Farmers - -1.224 : 1.224
+
+128/201
+STDOUT: WP results:
+landlord : Farmers - 0.314 : 0.686
+ADP results:
+landlord : Farmers - -1.272 : 1.272
+
+129/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.368 : 1.368
+
+130/201
+STDOUT: WP results:
+landlord : Farmers - 0.318 : 0.682
+ADP results:
+landlord : Farmers - -1.128 : 1.128
+
+131/201
+STDOUT: WP results:
+landlord : Farmers - 0.304 : 0.696
+ADP results:
+landlord : Farmers - -1.268 : 1.268
+
+132/201
+STDOUT: WP results:
+landlord : Farmers - 0.328 : 0.672
+ADP results:
+landlord : Farmers - -1.104 : 1.104
+
+133/201
+STDOUT: WP results:
+landlord : Farmers - 0.354 : 0.646
+ADP results:
+landlord : Farmers - -0.98 : 0.98
+
+134/201
+STDOUT: WP results:
+landlord : Farmers - 0.322 : 0.678
+ADP results:
+landlord : Farmers - -1.196 : 1.196
+
+135/201
+STDOUT: WP results:
+landlord : Farmers - 0.32 : 0.68
+ADP results:
+landlord : Farmers - -1.144 : 1.144
+
+136/201
+STDOUT: WP results:
+landlord : Farmers - 0.306 : 0.694
+ADP results:
+landlord : Farmers - -1.336 : 1.336
+
+137/201
+STDOUT: WP results:
+landlord : Farmers - 0.272 : 0.728
+ADP results:
+landlord : Farmers - -1.492 : 1.492
+
+138/201
+STDOUT: WP results:
+landlord : Farmers - 0.286 : 0.714
+ADP results:
+landlord : Farmers - -1.38 : 1.38
+
+139/201
+STDOUT: WP results:
+landlord : Farmers - 0.284 : 0.716
+ADP results:
+landlord : Farmers - -1.404 : 1.404
+
+140/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.388 : 1.388
+
+141/201
+STDOUT: WP results:
+landlord : Farmers - 0.278 : 0.722
+ADP results:
+landlord : Farmers - -1.444 : 1.444
+
+142/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.392 : 1.392
+
+143/201
+STDOUT: WP results:
+landlord : Farmers - 0.27 : 0.73
+ADP results:
+landlord : Farmers - -1.488 : 1.488
+
+144/201
+STDOUT: WP results:
+landlord : Farmers - 0.314 : 0.686
+ADP results:
+landlord : Farmers - -1.208 : 1.208
+
+145/201
+STDOUT: WP results:
+landlord : Farmers - 0.276 : 0.724
+ADP results:
+landlord : Farmers - -1.532 : 1.532
+
+146/201
+STDOUT: WP results:
+landlord : Farmers - 0.258 : 0.742
+ADP results:
+landlord : Farmers - -1.692 : 1.692
+
+147/201
+STDOUT: WP results:
+landlord : Farmers - 0.312 : 0.688
+ADP results:
+landlord : Farmers - -1.224 : 1.224
+
+148/201
+STDOUT: WP results:
+landlord : Farmers - 0.274 : 0.726
+ADP results:
+landlord : Farmers - -1.44 : 1.44
+
+149/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.292 : 1.292
+
+150/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.436 : 1.436
+
+151/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.336 : 1.336
+
+152/201
+STDOUT: WP results:
+landlord : Farmers - 0.268 : 0.732
+ADP results:
+landlord : Farmers - -1.424 : 1.424
+
+153/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.368 : 1.368
+
+154/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.364 : 1.364
+
+155/201
+STDOUT: WP results:
+landlord : Farmers - 0.274 : 0.726
+ADP results:
+landlord : Farmers - -1.512 : 1.512
+
+156/201
+STDOUT: WP results:
+landlord : Farmers - 0.268 : 0.732
+ADP results:
+landlord : Farmers - -1.464 : 1.464
+
+157/201
+STDOUT: WP results:
+landlord : Farmers - 0.254 : 0.746
+ADP results:
+landlord : Farmers - -1.58 : 1.58
+
+158/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.392 : 1.392
+
+159/201
+STDOUT: WP results:
+landlord : Farmers - 0.274 : 0.726
+ADP results:
+landlord : Farmers - -1.448 : 1.448
+
+160/201
+STDOUT: WP results:
+landlord : Farmers - 0.29 : 0.71
+ADP results:
+landlord : Farmers - -1.392 : 1.392
+
+161/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.34 : 1.34
+
+162/201
+STDOUT: WP results:
+landlord : Farmers - 0.284 : 0.716
+ADP results:
+landlord : Farmers - -1.376 : 1.376
+
+163/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.42 : 1.42
+
+164/201
+STDOUT: WP results:
+landlord : Farmers - 0.28 : 0.72
+ADP results:
+landlord : Farmers - -1.452 : 1.452
+
+165/201
+STDOUT: WP results:
+landlord : Farmers - 0.316 : 0.684
+ADP results:
+landlord : Farmers - -1.188 : 1.188
+
+166/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.376 : 1.376
+
+167/201
+STDOUT: WP results:
+landlord : Farmers - 0.304 : 0.696
+ADP results:
+landlord : Farmers - -1.368 : 1.368
+
+168/201
+STDOUT: WP results:
+landlord : Farmers - 0.306 : 0.694
+ADP results:
+landlord : Farmers - -1.308 : 1.308
+
+169/201
+STDOUT: WP results:
+landlord : Farmers - 0.292 : 0.708
+ADP results:
+landlord : Farmers - -1.352 : 1.352
+
+170/201
+STDOUT: WP results:
+landlord : Farmers - 0.28 : 0.72
+ADP results:
+landlord : Farmers - -1.428 : 1.428
+
+171/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.452 : 1.452
+
+172/201
+STDOUT: WP results:
+landlord : Farmers - 0.28 : 0.72
+ADP results:
+landlord : Farmers - -1.452 : 1.452
+
+173/201
+STDOUT: WP results:
+landlord : Farmers - 0.286 : 0.714
+ADP results:
+landlord : Farmers - -1.396 : 1.396
+
+174/201
+STDOUT: WP results:
+landlord : Farmers - 0.296 : 0.704
+ADP results:
+landlord : Farmers - -1.436 : 1.436
+
+175/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.388 : 1.388
+
+176/201
+STDOUT: WP results:
+landlord : Farmers - 0.28 : 0.72
+ADP results:
+landlord : Farmers - -1.412 : 1.412
+
+177/201
+STDOUT: WP results:
+landlord : Farmers - 0.308 : 0.692
+ADP results:
+landlord : Farmers - -1.32 : 1.32
+
+178/201
+STDOUT: WP results:
+landlord : Farmers - 0.296 : 0.704
+ADP results:
+landlord : Farmers - -1.372 : 1.372
+
+179/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.276 : 1.276
+
+180/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.34 : 1.34
+
+181/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.276 : 1.276
+
+182/201
+STDOUT: WP results:
+landlord : Farmers - 0.302 : 0.698
+ADP results:
+landlord : Farmers - -1.304 : 1.304
+
+183/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.388 : 1.388
+
+184/201
+STDOUT: WP results:
+landlord : Farmers - 0.304 : 0.696
+ADP results:
+landlord : Farmers - -1.32 : 1.32
+
+185/201
+STDOUT: WP results:
+landlord : Farmers - 0.29 : 0.71
+ADP results:
+landlord : Farmers - -1.392 : 1.392
+
+186/201
+STDOUT: WP results:
+landlord : Farmers - 0.294 : 0.706
+ADP results:
+landlord : Farmers - -1.376 : 1.376
+
+187/201
+STDOUT: WP results:
+landlord : Farmers - 0.296 : 0.704
+ADP results:
+landlord : Farmers - -1.4 : 1.4
+
+188/201
+STDOUT: WP results:
+landlord : Farmers - 0.306 : 0.694
+ADP results:
+landlord : Farmers - -1.236 : 1.236
+
+189/201
+STDOUT: WP results:
+landlord : Farmers - 0.284 : 0.716
+ADP results:
+landlord : Farmers - -1.5 : 1.5
+
+190/201
+STDOUT: WP results:
+landlord : Farmers - 0.262 : 0.738
+ADP results:
+landlord : Farmers - -1.452 : 1.452
+
+191/201
+STDOUT: WP results:
+landlord : Farmers - 0.306 : 0.694
+ADP results:
+landlord : Farmers - -1.324 : 1.324
+
+192/201
+STDOUT: WP results:
+landlord : Farmers - 0.282 : 0.718
+ADP results:
+landlord : Farmers - -1.416 : 1.416
+
+193/201
+STDOUT: WP results:
+landlord : Farmers - 0.288 : 0.712
+ADP results:
+landlord : Farmers - -1.352 : 1.352
+
+194/201
+STDOUT: WP results:
+landlord : Farmers - 0.236 : 0.764
+ADP results:
+landlord : Farmers - -1.636 : 1.636
+
+195/201
+STDOUT: WP results:
+landlord : Farmers - 0.244 : 0.756
+ADP results:
+landlord : Farmers - -1.628 : 1.628
+
+196/201
+STDOUT: WP results:
+landlord : Farmers - 0.29 : 0.71
+ADP results:
+landlord : Farmers - -1.304 : 1.304
+
+197/201
+STDOUT: WP results:
+landlord : Farmers - 0.242 : 0.758
+ADP results:
+landlord : Farmers - -1.56 : 1.56
+
+198/201
+STDOUT: WP results:
+landlord : Farmers - 0.3 : 0.7
+ADP results:
+landlord : Farmers - -1.324 : 1.324
+
+199/201
+STDOUT: WP results:
+landlord : Farmers - 0.28 : 0.72
+ADP results:
+landlord : Farmers - -1.364 : 1.364
+
+200/201
+STDOUT: WP results:
+landlord : Farmers - 0.272 : 0.728
+ADP results:
+landlord : Farmers - -1.548 : 1.548
+
+201/201
+STDOUT: WP results:
+landlord : Farmers - 0.284 : 0.716
+ADP results:
+landlord : Farmers - -1.356 : 1.356
